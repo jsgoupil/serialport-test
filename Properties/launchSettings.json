@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "serialport-test": {
+      "commandName": "Project",
+      "commandLineArgs": "COM7"
+    }
+  }
+}
